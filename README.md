@@ -64,4 +64,4 @@ This project is a reference from [TraversyMedia](https://www.youtube.com/watch?v
 ```
 
 ## Part 4
-[Mini Item Lister Website Project]()
+[Mini To Do List Website Project](https://liewkuanyung.github.io/Todolist-VanillaJS-Project/)
