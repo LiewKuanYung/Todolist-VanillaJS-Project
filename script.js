@@ -9,7 +9,7 @@ var filter = document.getElementById('filter')
 // Form submit event
 form.addEventListener('submit', addTask)
 // Delete event
-taskList.addEventListener('click',removeTask)
+taskList.addEventListener('dblclick',removeTask)
 // Filter event
 filter.addEventListener('keyup', filterTask)
 
